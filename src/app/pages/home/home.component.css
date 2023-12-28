@@ -13,4 +13,15 @@ header {
   justify-content: space-around;
 }
 
+.container__logo {
+  margin-left: 17px;
+}
+
+.container__app-menu-bar {
+}
+
+.container__buttonsLogin{
+  margin-right: 17px;
+}
+
 
