@@ -10,6 +10,7 @@ import { SmallCardComponent } from './components/small-card/small-card.component
 import { HomeComponent } from './pages/home/home.component';
 import { LogoComponent } from './components/logo/logo.component';
 import { ButtonLoginComponent } from './components/button-login/button-login.component';
+import { ContentComponent } from './pages/content/content.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { ButtonLoginComponent } from './components/button-login/button-login.com
     SmallCardComponent,
     HomeComponent,
     LogoComponent,
-    ButtonLoginComponent
+    ButtonLoginComponent,
+    ContentComponent
   ],
   imports: [
     BrowserModule,

@@ -1,27 +1,9 @@
 
-header {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  margin-top: 15px;
-}
-
 .container__articles {
   margin-top: 30px;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-}
-
-.container__logo {
-  margin-left: 17px;
-}
-
-.container__app-menu-bar {
-}
-
-.container__buttonsLogin{
-  margin-right: 17px;
 }
 
 
